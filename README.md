@@ -31,7 +31,8 @@ Example inputs:
 
 ## 📸 Screenshots
 
-> Add your screenshots here after running the app
+> <img width="271" height="525" alt="image" src="https://github.com/user-attachments/assets/eb41c09f-6446-422f-b7b0-c3871cfdb427" />
+
 
 ```
 ![Calculator UI](./assets/screenshot1.png)
